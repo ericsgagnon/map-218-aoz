@@ -1,0 +1,542 @@
+[
+  {
+    "Item": "Elite Mine",
+    "level": 1,
+    "alliance": "",
+    "X": 692,
+    "Y": 170,
+    "date": "",
+    "Distance from DEW": ""
+  },
+  {
+    "Item": "Elite Mine",
+    "level": 1,
+    "alliance": "",
+    "X": 742,
+    "Y": 195,
+    "date": "",
+    "Distance from DEW": ""
+  },
+  {
+    "Item": "Elite Mine",
+    "level": 1,
+    "alliance": "",
+    "X": 767,
+    "Y": 205,
+    "date": "",
+    "Distance from DEW": ""
+  },
+  {
+    "Item": "Elite Mine",
+    "level": 1,
+    "alliance": "",
+    "X": 725,
+    "Y": 171,
+    "date": "",
+    "Distance from DEW": ""
+  },
+  {
+    "Item": "Elite Mine",
+    "level": 1,
+    "alliance": "",
+    "X": 666,
+    "Y": 178,
+    "date": "",
+    "Distance from DEW": ""
+  },
+  {
+    "Item": "Alliance Hall",
+    "level": 1,
+    "alliance": "awd",
+    "X": 646,
+    "Y": 143,
+    "date": "2020-07-28",
+    "Distance from DEW": ""
+  },
+  {
+    "Item": "Elite Mine",
+    "level": 1,
+    "alliance": "awd",
+    "X": 650,
+    "Y": 145,
+    "date": "",
+    "Distance from DEW": ""
+  },
+  {
+    "Item": "Elite Mine",
+    "level": 1,
+    "alliance": "awd",
+    "X": 658,
+    "Y": 162,
+    "date": "",
+    "Distance from DEW": ""
+  },
+  {
+    "Item": "Elite Mine",
+    "level": 1,
+    "alliance": "awd",
+    "X": 352,
+    "Y": 169,
+    "date": "",
+    "Distance from DEW": ""
+  },
+  {
+    "Item": "Elite Mine",
+    "level": 1,
+    "alliance": "awd",
+    "X": 646,
+    "Y": 160,
+    "date": "",
+    "Distance from DEW": ""
+  },
+  {
+    "Item": "Alliance Hall",
+    "level": 4,
+    "alliance": "stl",
+    "X": 761,
+    "Y": 254,
+    "date": "2020-07-28",
+    "Distance from DEW": ""
+  },
+  {
+    "Item": "Elite Mine",
+    "level": 2,
+    "alliance": "stl",
+    "X": 759,
+    "Y": 249,
+    "date": "",
+    "Distance from DEW": ""
+  },
+  {
+    "Item": "Elite Mine",
+    "level": 2,
+    "alliance": "stl",
+    "X": 767,
+    "Y": 243,
+    "date": "",
+    "Distance from DEW": ""
+  },
+  {
+    "Item": "Elite Mine",
+    "level": 2,
+    "alliance": "stl",
+    "X": 780,
+    "Y": 238,
+    "date": "",
+    "Distance from DEW": ""
+  },
+  {
+    "Item": "Elite Mine",
+    "level": 2,
+    "alliance": "stl",
+    "X": 777,
+    "Y": 225,
+    "date": "",
+    "Distance from DEW": ""
+  },
+  {
+    "Item": "Elite Mine",
+    "level": 2,
+    "alliance": "stl",
+    "X": 756,
+    "Y": 258,
+    "date": "",
+    "Distance from DEW": ""
+  },
+  {
+    "Item": "Elite Mine",
+    "level": 2,
+    "alliance": "stl",
+    "X": 746,
+    "Y": 264,
+    "date": "",
+    "Distance from DEW": ""
+  },
+  {
+    "Item": "Elite Mine",
+    "level": 2,
+    "alliance": "stl",
+    "X": 738,
+    "Y": 261,
+    "date": "",
+    "Distance from DEW": ""
+  },
+  {
+    "Item": "Elite Mine",
+    "level": 2,
+    "alliance": "stl",
+    "X": 739,
+    "Y": 250,
+    "date": "",
+    "Distance from DEW": ""
+  },
+  {
+    "Item": "Elite Mine",
+    "level": 2,
+    "alliance": "stl",
+    "X": 729,
+    "Y": 267,
+    "date": "",
+    "Distance from DEW": ""
+  },
+  {
+    "Item": "Elite Mine",
+    "level": 2,
+    "alliance": "stl",
+    "X": 761,
+    "Y": 267,
+    "date": "",
+    "Distance from DEW": ""
+  },
+  {
+    "Item": "Elite Mine",
+    "level": 2,
+    "alliance": "stl",
+    "X": 771,
+    "Y": 269,
+    "date": "",
+    "Distance from DEW": ""
+  },
+  {
+    "Item": "Alliance Hall",
+    "level": 2,
+    "alliance": 888,
+    "X": 787,
+    "Y": 264,
+    "date": "2020-07-28",
+    "Distance from DEW": ""
+  },
+  {
+    "Item": "Elite Mine",
+    "level": 2,
+    "alliance": 888,
+    "X": 793,
+    "Y": 265,
+    "date": "",
+    "Distance from DEW": ""
+  },
+  {
+    "Item": "Elite Mine",
+    "level": 2,
+    "alliance": 888,
+    "X": 789,
+    "Y": 257,
+    "date": "",
+    "Distance from DEW": ""
+  },
+  {
+    "Item": "Elite Mine",
+    "level": 2,
+    "alliance": 888,
+    "X": 772,
+    "Y": 287,
+    "date": "",
+    "Distance from DEW": ""
+  },
+  {
+    "Item": "Alliance Hall",
+    "level": 3,
+    "alliance": "B07",
+    "X": 838,
+    "Y": 259,
+    "date": "2020-07-28",
+    "Distance from DEW": ""
+  },
+  {
+    "Item": "Elite Mine",
+    "level": 2,
+    "alliance": "B07",
+    "X": 803,
+    "Y": 285,
+    "date": "",
+    "Distance from DEW": ""
+  },
+  {
+    "Item": "Elite Mine",
+    "level": 2,
+    "alliance": "B07",
+    "X": 810,
+    "Y": 275,
+    "date": "",
+    "Distance from DEW": ""
+  },
+  {
+    "Item": "Elite Mine",
+    "level": 2,
+    "alliance": "B07",
+    "X": 816,
+    "Y": 270,
+    "date": "",
+    "Distance from DEW": ""
+  },
+  {
+    "Item": "Elite Mine",
+    "level": 2,
+    "alliance": "B07",
+    "X": 823,
+    "Y": 265,
+    "date": "",
+    "Distance from DEW": ""
+  },
+  {
+    "Item": "Elite Mine",
+    "level": 2,
+    "alliance": "B07",
+    "X": 835,
+    "Y": 262,
+    "date": "",
+    "Distance from DEW": ""
+  },
+  {
+    "Item": "Elite Mine",
+    "level": 2,
+    "alliance": "B07",
+    "X": 801,
+    "Y": 219,
+    "date": "",
+    "Distance from DEW": ""
+  },
+  {
+    "Item": "Elite Mine",
+    "level": 2,
+    "alliance": "B07",
+    "X": 777,
+    "Y": 203,
+    "date": "",
+    "Distance from DEW": ""
+  },
+  {
+    "Item": "Elite Mine",
+    "level": 2,
+    "alliance": "B07",
+    "X": 844,
+    "Y": 284,
+    "date": "",
+    "Distance from DEW": ""
+  },
+  {
+    "Item": "Elite Mine",
+    "level": 2,
+    "alliance": "B07",
+    "X": 860,
+    "Y": 287,
+    "date": "",
+    "Distance from DEW": ""
+  },
+  {
+    "Item": "Alliance Hall",
+    "level": 3,
+    "alliance": "aon",
+    "X": 872,
+    "Y": 348,
+    "date": "2020-07-28",
+    "Distance from DEW": ""
+  },
+  {
+    "Item": "Alliance Hall",
+    "level": 1,
+    "alliance": "MIT",
+    "X": 205,
+    "Y": 743,
+    "date": "7-28-20",
+    "Distance from DEW": "14 min"
+  },
+  {
+    "Item": "Elite Mine",
+    "level": 1,
+    "alliance": "MIT",
+    "X": 222,
+    "Y": 808,
+    "date": "",
+    "Distance from DEW": ""
+  },
+  {
+    "Item": "Elite Mine",
+    "level": 1,
+    "alliance": "MIT",
+    "X": 220,
+    "Y": 803,
+    "date": "",
+    "Distance from DEW": ""
+  },
+  {
+    "Item": "Elite Mine",
+    "level": 1,
+    "alliance": "MIT",
+    "X": 227,
+    "Y": 786,
+    "date": "",
+    "Distance from DEW": ""
+  },
+  {
+    "Item": "Elite Mine",
+    "level": 1,
+    "alliance": "MIT",
+    "X": 211,
+    "Y": 755,
+    "date": "",
+    "Distance from DEW": ""
+  },
+  {
+    "Item": "Elite Mine",
+    "level": 1,
+    "alliance": "MIT",
+    "X": 179,
+    "Y": 726,
+    "date": "",
+    "Distance from DEW": ""
+  },
+  {
+    "Item": "Elite Mine",
+    "level": 1,
+    "alliance": "MIT",
+    "X": 185,
+    "Y": 720,
+    "date": "",
+    "Distance from DEW": ""
+  },
+  {
+    "Item": "Elite Mine",
+    "level": 1,
+    "alliance": "MIT",
+    "X": 173,
+    "Y": 709,
+    "date": "",
+    "Distance from DEW": ""
+  },
+  {
+    "Item": "Elite Mine",
+    "level": 1,
+    "alliance": "MIT",
+    "X": 159,
+    "Y": 704,
+    "date": "",
+    "Distance from DEW": ""
+  },
+  {
+    "Item": "Elite Mine",
+    "level": 1,
+    "alliance": "MIT",
+    "X": 146,
+    "Y": 694,
+    "date": "",
+    "Distance from DEW": ""
+  },
+  {
+    "Item": "Elite Mine",
+    "level": 1,
+    "alliance": "MIT",
+    "X": 197,
+    "Y": 738,
+    "date": "",
+    "Distance from DEW": ""
+  },
+  {
+    "Item": "",
+    "level": "",
+    "alliance": "",
+    "X": "",
+    "Y": "",
+    "date": "",
+    "Distance from DEW": ""
+  },
+  {
+    "Item": "",
+    "level": "",
+    "alliance": "",
+    "X": "",
+    "Y": "",
+    "date": "",
+    "Distance from DEW": ""
+  },
+  {
+    "Item": "Elite Mine",
+    "level": 1,
+    "alliance": "AIR",
+    "X": 185,
+    "Y": 670,
+    "date": "",
+    "Distance from DEW": 15
+  },
+  {
+    "Item": "",
+    "level": "",
+    "alliance": "",
+    "X": "",
+    "Y": "",
+    "date": "",
+    "Distance from DEW": ""
+  },
+  {
+    "Item": "",
+    "level": "",
+    "alliance": "",
+    "X": "",
+    "Y": "",
+    "date": "",
+    "Distance from DEW": ""
+  },
+  {
+    "Item": "",
+    "level": "",
+    "alliance": "",
+    "X": "",
+    "Y": "",
+    "date": "",
+    "Distance from DEW": ""
+  },
+  {
+    "Item": "",
+    "level": "",
+    "alliance": "",
+    "X": "",
+    "Y": "",
+    "date": "",
+    "Distance from DEW": ""
+  },
+  {
+    "Item": "",
+    "level": "",
+    "alliance": "",
+    "X": "",
+    "Y": "",
+    "date": "",
+    "Distance from DEW": ""
+  },
+  {
+    "Item": "",
+    "level": "",
+    "alliance": "",
+    "X": "",
+    "Y": "",
+    "date": "",
+    "Distance from DEW": ""
+  },
+  {
+    "Item": "",
+    "level": "",
+    "alliance": "",
+    "X": "",
+    "Y": "",
+    "date": "",
+    "Distance from DEW": ""
+  },
+  {
+    "Item": "",
+    "level": "",
+    "alliance": "",
+    "X": "",
+    "Y": "",
+    "date": "",
+    "Distance from DEW": ""
+  },
+  {
+    "Item": "",
+    "level": "",
+    "alliance": "037",
+    "X": 167,
+    "Y": 868,
+    "date": "",
+    "Distance from DEW": 16
+  }
+]
